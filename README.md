@@ -37,6 +37,31 @@ Ejemplos correspondientes al modulo de JEE para reforzamientos del primer sabado
     <td>WebContent</td>
     <td>76</td>
   </tr>
+  <tr>
+    <td>fechaActual.jsp</td>
+    <td>WebContent</td>
+    <td>85</td>
+  </tr>
+  <tr>
+    <td>bucleNumeros.jsp</td>
+    <td>WebContent</td>
+    <td>89</td>
+  </tr>
+  <tr>
+    <td>expresion.jsp</td>
+    <td>WebContent</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>scriptles.jsp</td>
+    <td>WebContent</td>
+    <td>98</td>
+  </tr>
+  <tr>
+    <td>declaracion.jsp</td>
+    <td>WebContent</td>
+    <td>102</td>
+  </tr>
   
 </table>
 
