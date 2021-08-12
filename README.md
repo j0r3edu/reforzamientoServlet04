@@ -8,14 +8,34 @@ Ejemplos correspondientes al modulo de JEE para reforzamientos del primer sabado
     <th>Página PPT</th>
   </tr>
   <tr>
-    <td>ServletCreaSesion.java</td>
-    <td>com.edutecno.servlets.sesiones</td>
-    <td>71</td>
+    <td>LoginServlet.java</td>
+    <td>com.edutecno.servlet.sesion</td>
+    <td>76</td>
   </tr>
   <tr>
-    <td>ServletLeeSesion.java</td>
-    <td>com.edutecno.servlets.sesiones</td>
-    <td>71</td>
+    <td>LogoutServlet.java</td>
+    <td>com.edutecno.servlet.sesion</td>
+    <td>76</td>
+  </tr>
+  <tr>
+    <td>PerfilServlet.java</td>
+    <td>com.edutecno.servlet.sesion</td>
+    <td>76</td>
+  </tr>
+  <tr>
+    <td>index.html</td>
+    <td>WebContent</td>
+    <td>76</td>
+  </tr>
+  <tr>
+    <td>enlaces.html</td>
+    <td>WebContent</td>
+    <td>76</td>
+  </tr>
+  <tr>
+    <td>login.html</td>
+    <td>WebContent</td>
+    <td>76</td>
   </tr>
   
 </table>
